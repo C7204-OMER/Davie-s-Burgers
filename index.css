@@ -1,0 +1,15 @@
+#mainImg {
+    margin: 0 auto;
+    height: 350px;
+    width: 100%;
+}
+#container{
+    margin: 0 auto;
+    width: 80%;
+}
+#myform{
+    margin: 0 auto;
+    width: 30%;
+    border: 1px solid black;
+    padding: 10px;
+}
